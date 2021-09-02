@@ -1,0 +1,1 @@
+our_cat = db_manager.session.query(Category).filter_by(name='ENTRETENIMIENTO')
